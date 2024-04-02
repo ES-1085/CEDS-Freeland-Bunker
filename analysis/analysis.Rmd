@@ -1,5 +1,5 @@
 ---
-title: "Project proposal"
+title: "Analysis"
 author: "Team name"
 output: github_document
 ---
@@ -16,9 +16,4 @@ library(broom)
 ## 2. Data
 
 
-## 3. Ethics review
-
-## 4. Data analysis plan
-
-
-
+## 3. Analysis
